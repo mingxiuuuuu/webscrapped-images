@@ -1,2 +1,2 @@
 # webscrapped images
- Contains webscrapped images from 16 blogshops via scrapy and webscrapped python codes.
+Dress images from 16 blogshops were webscrapped using Scrapy. Folder contains the webscrapping codes for each blogshop.

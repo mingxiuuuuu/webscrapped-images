@@ -1,2 +1,2 @@
 # webscrapped images
- webscrapped images from blogshops
+ Contains webscrapped images from 16 blogshops via scrapy and webscrapped python codes.
